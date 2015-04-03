@@ -1,0 +1,22 @@
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\Assembly-CSharp.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\Assembly-CSharp.pdb
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\Assembly-CSharp.pri
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\UnityEngine.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\WinRTLegacy.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Debug\UnityEngine.pdb
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\Assembly-CSharp-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\Assembly-CSharp.dll
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\Assembly-CSharp.pdb
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\priconfig.xml
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\layout.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\resources.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\pri.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\qualifiers.txt
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

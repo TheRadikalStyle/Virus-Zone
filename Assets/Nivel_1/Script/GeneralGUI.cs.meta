@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 09f62a313079531458bc0711f00b6e90
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - go: {instanceID: 0}
+  - SaltarOrb: {instanceID: 0}
+  - botonPausa: {instanceID: 0}
+  - DisparaOrb: {instanceID: 0}
+  - skinJuego: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

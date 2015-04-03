@@ -1,0 +1,40 @@
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\x86\Master\UnityEngine.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\x86\Master\WinRTLegacy.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\x86\Master\UnityEngine.pdb
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\priconfig.xml
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\priconfig.xml.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\layout.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\layout.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\resources.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\resources.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\pri.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\pri.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\qualifiers.txt
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\qualifiers.txt.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\x86\Master\MultipleQualifiersPerDimensionFound.txt
+C:\Users\David\Desktop\VirusZone\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\David\Desktop\VirusZone\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\VirusZone\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\David\Desktop\VirusZone\bin\Store 8.1\x86\Master\UnityEngine.dll
+C:\Users\David\Desktop\VirusZone\bin\Store 8.1\x86\Master\WinRTLegacy.dll
+C:\Users\David\Desktop\VirusZone\bin\Store 8.1\x86\Master\UnityEngine.pdb
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\priconfig.xml
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\priconfig.xml.intermediate
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\layout.resfiles
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\layout.resfiles.intermediate
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\resources.resfiles
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\resources.resfiles.intermediate
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\pri.resfiles
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\pri.resfiles.intermediate
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\qualifiers.txt
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\qualifiers.txt.intermediate
+C:\Users\David\Desktop\VirusZone\obj\x86\Master\MultipleQualifiersPerDimensionFound.txt

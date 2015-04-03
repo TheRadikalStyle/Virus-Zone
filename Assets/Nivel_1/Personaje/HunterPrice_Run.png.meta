@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: f25164b602f63cf42b03489547632cd2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HunterPrice_Run
+    21300002: HunterPrice_Run_0
+    21300004: HunterPrice_Run_1
+    21300006: HunterPrice_Run_2
+    21300008: HunterPrice_Run_3
+    21300010: HunterPrice_Run_4
+    21300012: HunterPrice_Run_5
+    21300014: HunterPrice_Run_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HunterPrice_Run_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 391
+        width: 423
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HunterPrice_Run_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 396
+        width: 423
+        height: 912
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HunterPrice_Run_2
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 734
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HunterPrice_Run_3
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 396
+        width: 423
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HunterPrice_Run_4
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 402
+        width: 423
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HunterPrice_Run_5
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 406
+        width: 423
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HunterPrice_Run_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 394
+        width: 423
+        height: 914
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

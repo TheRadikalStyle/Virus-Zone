@@ -1,0 +1,19 @@
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Release\Assembly-CSharp-firstpass.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Release\Assembly-CSharp-firstpass.pri
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Release\UnityEngine.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Release\WinRTLegacy.dll
+C:\Users\David\Desktop\Virus_Zone\bin\Store 8.1\ARM\Release\UnityEngine.pdb
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\Assembly-CSharp-firstpass.dll
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\priconfig.xml
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\layout.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\resources.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\pri.resfiles
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\qualifiers.txt
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\David\Desktop\Virus_Zone\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt

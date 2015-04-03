@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Nivel_1\Script\PersonajeBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Nivel_1\Script\PersonajeBehaviour.cs" Line="398" Column="9" />
+      <File FileName="Assets\Nivel_1\Script\GeneralGUI.cs" Line="128" Column="3" />
+      <File FileName="Assets\Nivel_1\Script\Pausa.cs" Line="12" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
