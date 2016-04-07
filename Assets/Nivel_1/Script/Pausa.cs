@@ -25,7 +25,7 @@ public class Pausa : MonoBehaviour {
 		if (pausado) {
 						//Time.timeScale = 0;
 						Menu = true;
-						audio.Pause();
+						GetComponent<AudioSource>().Pause();
 				} else {
 						Time.timeScale = 1;
 						Menu = false;
@@ -49,7 +49,7 @@ public class Pausa : MonoBehaviour {
 			if(GUILayout.Button("Regresar")){
 				Time.timeScale = 1;
 				pausado = false;
-				audio.Play ();
+				GetComponent<AudioSource>().Play ();
 			}
 			//activarTouchButtons = GUILayout.Toggle(activarTouchButtons, "Activar botones Touch");
 			//PlayerPrefs.SetInt("TouchButtons",0);

@@ -314,8 +314,8 @@ public class PersonajeBehaviour : MonoBehaviour {
 
 	public void Salto(){
 		if (cam.GetComponent<GeneralGUI>().saltoPresionado && (enSuelo || !dobleSalto)) {  //if (Input.GetMouseButtonDown (0) && (enSuelo || !dobleSalto))
-		rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, fuerzaSalto);
-		rigidbody2D.AddForce (new Vector2 (0, fuerzaSalto));
+		GetComponent<Rigidbody2D>().velocity = new Vector2 (GetComponent<Rigidbody2D>().velocity.x, fuerzaSalto);
+		GetComponent<Rigidbody2D>().AddForce (new Vector2 (0, fuerzaSalto));
 			//cam.GetComponent<GeneralGUI>().saltoPresionado = false;
 		(GetComponent<Animator> ()).SetBool ("isJumping", true);
 		if (!dobleSalto && !enSuelo) {

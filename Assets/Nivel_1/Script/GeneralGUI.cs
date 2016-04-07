@@ -122,7 +122,7 @@ public class GeneralGUI : MonoBehaviour {
 				bool me = GetComponent<Pausa>().pausado;
 				me = true;
 				GetComponent<Pausa>().pausado = me;
-				audio.PlayOneShot(sound);
+				GetComponent<AudioSource>().PlayOneShot(sound);
 			}
 		PlayerPrefs.SetInt("TouchButtons",1);
 	}

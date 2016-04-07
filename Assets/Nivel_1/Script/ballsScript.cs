@@ -13,9 +13,9 @@ public class ballsScript : MonoBehaviour {
 	
 	void FixedUpdate(){
 		if(gos.GetComponent<PersonajeBehaviour>().facingRight){
-		rigidbody2D.velocity = new Vector2(velocidad, rigidbody2D.velocity.y);
+		GetComponent<Rigidbody2D>().velocity = new Vector2(velocidad, GetComponent<Rigidbody2D>().velocity.y);
 		}else{
-			rigidbody2D.velocity = new Vector2(-velocidad, rigidbody2D.velocity.y);
+			GetComponent<Rigidbody2D>().velocity = new Vector2(-velocidad, GetComponent<Rigidbody2D>().velocity.y);
 		}
 	}
 

@@ -31,7 +31,7 @@ public class PersonajeAutonomo : MonoBehaviour {
 
 	void FixedUpdate(){
 		if(isMoving){
-			rigidbody2D.velocity = new Vector2(velocidad, rigidbody2D.velocity.y);
+			GetComponent<Rigidbody2D>().velocity = new Vector2(velocidad, GetComponent<Rigidbody2D>().velocity.y);
 			}
 		//animator.SetFloat("VelX", rigidbody2D.velocity.x);
 		enSuelo = Physics2D.OverlapCircle(comprobadorSuelo.position, comprobadorRadio, mascaraSuelo);
@@ -48,7 +48,7 @@ public class PersonajeAutonomo : MonoBehaviour {
 			if(isMoving){
 				// Hacemos que salte si puede saltar
 				if(enSuelo || !dobleSalto){
-					rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, fuerzaSalto);
+					GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, fuerzaSalto);
 					//rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
 					(GetComponent<Animator> ()).SetBool ("isJumping", true);
 					if(!dobleSalto && !enSuelo){
